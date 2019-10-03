@@ -1,4 +1,4 @@
-This project presents the resulting output of comparing Naive Bayes vesus Support Vector Machines performances on Email classification. It builds both models from scratch without using external libraries.
+This project presents the results of comparing Naive Bayes vesus Support Vectors Machine performances on Email classification. It builds both models from scratch without using external libraries.
 
 Files included in this project
 
